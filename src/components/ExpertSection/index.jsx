@@ -48,7 +48,7 @@ export default function ExpertsSection() {
     <section className="py-16 px-6 md:px-12 lg:px-24 text-center">
       {/* Heading */}
       <div className="max-w-2xl mx-auto">
-        <span className="bg-blue text-pink text-sm font-medium px-4 py-10 rounded-full">
+        <span className="bg-blue text-pink text-sm font-medium px-4 py-1 rounded-full">
           Meet Our Experts
         </span>
         <h2 className="text-3xl md:text-4xl font-bold mt-4 text-pink">
